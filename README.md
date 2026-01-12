@@ -95,7 +95,61 @@ A base de dados contém informações fictícias, estruturadas com os seguintes 
 
 ---
 
+## 🖼️ Visual do Projeto
+
+### 📌 Menu
+![Menu do Dashboard](assets/images/menu.png)
+
+Tela inicial com navegação entre as áreas do projeto.
+
+---
+
+### 📊 Dashboard
+![Dashboard de Vendas](assets/images/dashboard.png)
+
+Visão geral com KPIs, gráficos de receita, distribuição de planos e análise de renovação automática.
+
+---
+
+### 🗂️ Base de Dados
+![Base de Dados](assets/images/base.png)
+
+Tabela com os dados brutos utilizados para alimentar o dashboard.
+
+---
+
 ## ▶️ Como Reproduzir o Projeto
 
 Abra o arquivo Excel:
+[Base](Base.xlsx)
 
+## 🎯 Objetivo Educacional
+
+Este projeto foi desenvolvido como parte de um desafio de análise e visualização de dados, com foco em:
+
+  - Organização de dados
+
+  - Storytelling com dashboards
+
+  - Visualização estratégica
+
+  - Portfólio para área de Dados, BI e Tecnologia
+
+## 🚀 Próximos Passos (Evoluções Possíveis)
+
+  - Análise temporal por mês/ano
+
+  - Inclusão de churn e retenção
+
+  - Versão no Power BI
+  
+  - Dashboard comparativo por período
+
+## 👩‍💻 Autor
+
+Ivo Coelho de Castro
+📊 Estudante de Ciência de Dados
+💡 Interessado em Dados, BI, Tecnologia e Visualização
+🔗 LinkedIn: ([adicione aqui](https://www.linkedin.com/in/ivocoelhocastro/))
+
+⭐ Se você gostou do projeto, deixe uma estrela no repositório!
