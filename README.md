@@ -98,21 +98,21 @@ A base de dados contém informações fictícias, estruturadas com os seguintes 
 ## 🖼️ Visual do Projeto
 
 ### 📌 Menu
-![Menu do Dashboard](assets/images/menu.png)
+![Menu do Dashboard](https://github.com/ivocoelhoc/Dashboard-de-Vendas-Xbox-com-Excel/blob/main/Captura%20de%20tela%202026-01-12%20105413.png)
 
 Tela inicial com navegação entre as áreas do projeto.
 
 ---
 
 ### 📊 Dashboard
-![Dashboard de Vendas](assets/images/dashboard.png)
+![Dashboard de Vendas](https://github.com/ivocoelhoc/Dashboard-de-Vendas-Xbox-com-Excel/blob/main/Captura%20de%20tela%202026-01-12%20105448.png)
 
 Visão geral com KPIs, gráficos de receita, distribuição de planos e análise de renovação automática.
 
 ---
 
 ### 🗂️ Base de Dados
-![Base de Dados](assets/images/base.png)
+![Base de Dados](https://github.com/ivocoelhoc/Dashboard-de-Vendas-Xbox-com-Excel/blob/main/Captura%20de%20tela%202026-01-12%20105529.png)
 
 Tabela com os dados brutos utilizados para alimentar o dashboard.
 
