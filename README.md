@@ -150,6 +150,6 @@ Este projeto foi desenvolvido como parte de um desafio de análise e visualizaç
 Ivo Coelho de Castro
 📊 Estudante de Ciência de Dados
 💡 Interessado em Dados, BI, Tecnologia e Visualização
-🔗 LinkedIn: ([adicione aqui](https://www.linkedin.com/in/ivocoelhocastro/))
+🔗 [LinkedIn](https://www.linkedin.com/in/ivocoelhocastro/)
 
 ⭐ Se você gostou do projeto, deixe uma estrela no repositório!
